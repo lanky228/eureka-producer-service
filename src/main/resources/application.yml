@@ -1,3 +1,5 @@
+server:
+  port: 8762
 #  设置服务名
 spring:
   application:
